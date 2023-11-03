@@ -2,8 +2,8 @@
   "name": "Save Restricted Content by TGS",
   "description": "Telegram bot to save restricted content.",
   "logo": "",
-  "keywords": ["telegram", "Save restricted content", "bot"],
-  "repository": "https://github.com/vasusen-code/SaveRestrictedContentBot",
+  "keywords": ["telegram", "Save Restricted Content by TGS", "bot"],
+  "repository": "https://github.com/itsmevikas1009/SaveRestrictedContentBot_byTGS",
   "website": "",
   "success_url": "https://t.me/HackingCraze24_7d",
   "env": {
