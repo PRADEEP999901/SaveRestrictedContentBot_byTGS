@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Save restricted content Bot</b>
+  <b>Save restricted content by TGS Bot</b>
 </h1>
 
 Contact: [Telegram](https://t.me/HackingCraze_Papa)
